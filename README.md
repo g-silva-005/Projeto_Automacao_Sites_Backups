@@ -1,5 +1,5 @@
 # Projeto_Linux_Scripts
-Contém apenas os scripts que usei para autoamtizar processos no meu projeto linux.
+Contém os scripts feitos em bash, para automatizar processos na area de administracao de um site e backup do mesmo e da sua base de dados 
 
 inclui 4 menus:
 
@@ -7,4 +7,5 @@ inclui 4 menus:
 - Verificação e testes dos serviços
 - Serviço de backup
 - Segurança e manutenção
+
 
