@@ -2,7 +2,8 @@
 Contém os scripts feitos em bash, para automatizar processos na area de administracao de um site e backup do mesmo e da sua base de dados 
 
 <div align="center">
-    <img src="https://olisipo.pt/wp-content/uploads/2019/03/linux.jpg" width="450"/>
+    <img src="<img width="1280" height="720" alt="linux" src="https://github.com/user-attachments/assets/7c0d310e-597a-4c13-93c6-db31908da43b" />
+" width="450"/>
     <br>
 </div>
 
